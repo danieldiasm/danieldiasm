@@ -1,7 +1,7 @@
 export const profileData = {
-  name: "Daniel Zulato Dias de Moraes",
+  name: "Daniel",
   shortName: "DANIEL Z. DIAS DE MORAES",
-  callsign: "DZDM // SARIF-NODE-SE",
+  callsign: "DZDM",
   role: "Senior Software Engineer · Platform & SRE · IoT & Embedded Systems",
   location: "Stockholm, Sweden",
   coordinates: "59.3293° N, 18.0686° E",
